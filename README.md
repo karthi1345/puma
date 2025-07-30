@@ -1,2 +1,2 @@
-# puma-shoe
+# puma-shoes
 fornt-end project
