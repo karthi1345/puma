@@ -1,2 +1,2 @@
-# nike-shoe
+# puma-shoe
 fornt-end project
